@@ -5,7 +5,7 @@
     <title>首页</title>
     <style>
         body{
-        background:url(山水墨画.jpg) norepeat;
+        background:url(bg_title.png) norepeat;
         height:100%;
         }
         head{
