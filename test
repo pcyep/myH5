@@ -2,7 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>pcYep</title>
+    <title>首页</title>
+    <style>
+        body{
+        background:url(山水墨画.jpg) norepeat;
+        height:100%;
+        }
+        head{
+        height:100%;
+        }
+    </style>
+    
 </head>
 <body>
                  <h1>己亥岁二首</h1>
