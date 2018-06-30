@@ -12,13 +12,14 @@
         html{
             height:100%
         }
-        h1{
+        h1 p {
             text-align: center;
-            color:cyan;
+            color: cyan;
+            animation: myFirstAnmi 10s infinite;
         }
-        p{
-            text-align: center;
-            color:blue;
+        @keyframes myFirstAnmi {
+            from{opacity:0}
+            to{opacity:100}
         }
     </style>
 </head>
